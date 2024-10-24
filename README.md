@@ -1,4 +1,4 @@
-Fish Species Classification with Deep Learning
+*Fish Species Classification with Deep Learning*
 Project Overview
 This project aims to classify 9 different species of fish using deep learning techniques. The dataset, sourced from the A Large Scale Fish Dataset, contains images of fish that are categorized into predefined species. The model is designed to accurately predict the species of fish based on the images.
 
