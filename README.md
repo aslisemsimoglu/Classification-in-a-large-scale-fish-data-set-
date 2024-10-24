@@ -20,7 +20,22 @@ Kaggle Notebook
 You can view the project and run it on Kaggle using the link below:
 https://www.kaggle.com/code/aslemimolu/classification-in-a-large-scale-fish-data-set
 
+
+
+
+
+
 Contributors
+
+
+
+
 Aslı Şemşimoğlu
+
+
+
+
 Rabia Durgut
+
+
 
