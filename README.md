@@ -31,7 +31,7 @@ This project aims to classify 9 different species of fish using deep learning te
 ### 5. Kaggle Notebook
 
 You can view the project and run it on Kaggle using the link below:
-[Classification in a Large Scale Fish Dataset](https://www.kaggle.com/code/aslemimolu/classification-in-a-large-scale-fish-data-set)
+[Classification in a Large Scale Fish Dataset]([https://www.kaggle.com/code/aslemimolu/classification-in-a-large-scale-fish-data-set](https://www.kaggle.com/code/aslemimolu/classification-in-a-large-scale-fish-data-set))
 
 ## Contributors
 
