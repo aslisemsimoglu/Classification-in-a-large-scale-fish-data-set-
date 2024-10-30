@@ -52,7 +52,7 @@ The EarlyStopping callback monitors the validation loss and stops training if it
 Factor: 0.2, Patience: 7, Minimum Learning Rate: 1e-6
 To adapt the learning rate based on the model's progress, the ReduceLROnPlateau callback reduces the learning rate by a factor of 0.2 if there’s no improvement in validation loss for 7 epochs. This gradual reduction allows the model to fine-tune the weights when nearing convergence, ensuring it doesn’t miss local minima that a fixed learning rate might skip over. The minimum learning rate of 1e-6 acts as a threshold to avoid excessively low learning rates, which could hinder further learning.
 
-### 5. Kaggle Notebook
+### 6. Kaggle Notebook
 
 You can view the project and run it on Kaggle using the link below:
 [Classification in a Large Scale Fish Dataset]
